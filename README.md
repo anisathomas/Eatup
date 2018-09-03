@@ -12,9 +12,9 @@ A single page application that helps you decide where to eat depending on where 
 
 ## Screenshots
 !["Main Page with restaurant search"](https://github.com/anisathomas/Eatup/blob/master/docs/Screen%20Shot%202018-07-13%20at%201.35.25%20PM.png)
-!["Swipe card with restaurants"](https://github.com/KimonoKurtRussell/Eatup/blob/FinalVersion/docs/Screen%20Shot%202018-07-13%20at%201.35.36%20PM.png)
-!["Form submission for event creation"](https://github.com/KimonoKurtRussell/Eatup/blob/FinalVersion/docs/Screen%20Shot%202018-07-13%20at%201.37.25%20PM.png)
-!["Event creation confirmation"](https://github.com/KimonoKurtRussell/Eatup/blob/FinalVersion/docs/Screen%20Shot%202018-07-13%20at%201.37.35%20PM.png)
+!["Swipe card with restaurants"](https://github.com/anisathomas/Eatup/blob/master/docs/Screen%20Shot%202018-07-13%20at%201.35.36%20PM.png)
+!["Form submission for event creation"](https://github.com/anisathomas/Eatup/blob/master/docs/Screen%20Shot%202018-07-13%20at%201.37.25%20PM.png)
+!["Event creation confirmation"](https://github.com/anisathomas/Eatup/blob/master/docs/Screen%20Shot%202018-07-13%20at%201.37.35%20PM.png)
 !["Event list of all current events"](https://github.com/KimonoKurtRussell/Eatup/blob/FinalVersion/docs/Screen%20Shot%202018-07-13%20at%201.37.50%20PM.png)
 !["Login modal"](https://github.com/KimonoKurtRussell/Eatup/blob/FinalVersion/docs/Screen%20Shot%202018-07-13%20at%201.36.05%20PM.png)
 
